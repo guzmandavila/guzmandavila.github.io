@@ -85,9 +85,7 @@ Documentary storytelling
 ### 📷 Production Gear
 📷 Sony Alpha  
 🔍 Sigma Lenses  
-🎤 Pro Audio Mic 
-    Shotgun microphone
-    Lavalier microphones
+🎤 Pro Audio
 🎙 Zoom R20 Multitrack (Podcast)  
 🚁 DJI Mavic Air 2
 
