@@ -27,9 +27,41 @@ Ableton Live
 iZotope RX  
 ---
 
-## 📁 Selected Work
+## 📁 Selected Projects
 
-(proyectos)
+### Climate Documentary – Chimborazo (Revista Vistazo)
+
+**Role:**
+Production / Camera / Editing / Color / Audio Post / Delivery
+
+**Type:**
+Environmental editorial documentary
+
+[![Project](https://img.youtube.com/vi/ObqKy5h2I38/0.jpg)](https://www.youtube.com/watch?v=ObqKy5h2I38)
+
+---
+
+### Editorial Interview Production – Revista Vistazo
+
+**Role:**
+Production / Camera / Editing / Color / Audio Post
+
+**Type:**
+Editorial video production
+
+[![Project](https://img.youtube.com/vi/mGdqrWWpJr4/0.jpg)](https://www.youtube.com/watch?v=mGdqrWWpJr4)
+
+---
+
+### Documentary Production
+
+**Role:**
+Director / Camera / Post Production
+
+**Type:**
+Documentary storytelling
+
+(link después)
 
 ---
 
