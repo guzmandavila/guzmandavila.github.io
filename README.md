@@ -2,18 +2,9 @@
 
 🎬 Producer | 🎥 Shooter | ✂️ Editor | 🎨 Colorist | 🎧 Audio Post
 
-Audiovisual producer specialized in end-to-end production: shooting, editing, color grading and final delivery with professional audio post workflows.
+End-to-end audiovisual production from shooting to final delivery with professional post workflows.
 
-Experience working with editorial teams, brands and international collaborators.
-
-Based in Ecuador | Available for remote projects worldwide
-
-![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-black)
-![ProTools](https://img.shields.io/badge/ProTools-Studio-grey)
-![Premiere](https://img.shields.io/badge/Premiere-Pro-black)
-![Color](https://img.shields.io/badge/Color-Grading-darkgrey)
-![Audio](https://img.shields.io/badge/Audio-Post-grey)
-![Drone](https://img.shields.io/badge/Drone-Operator-black)
+Based in Ecuador | Available for remote projects worldwide.
 
 ---
 
@@ -21,47 +12,45 @@ Based in Ecuador | Available for remote projects worldwide
 
 [![Reel](https://img.youtube.com/vi/rhUEiaQfEJ4/0.jpg)](https://youtu.be/rhUEiaQfEJ4)
 
-**Roles:**
+**Production roles**
 
-Production  
-Direction  
-Camera Operation  
-Drone Operation  
-Video Editing  
-Color Grading  
-Audio Post Production  
-Final Delivery   
+Production · Direction · Camera · Drone · Editing · Color · Audio Post · Delivery
 
-**Post workflow:**
+**Post pipeline**
 
-DaVinci Resolve  
-Pro Tools  
-Ableton Live  
-iZotope RX  
+DaVinci Resolve · Pro Tools · Ableton Live · iZotope RX
 
 ---
 
-## 📁 Selected Projects
+## 🎬 Professional Experience
 
-### Climate Documentary – Chimborazo (Revista Vistazo)
+### Post Producer / Audiovisual Producer  
+**Revista Vistazo — 2021–Present**
 
-**Role:**  
-Production / Camera / Editing / Color / Audio Post / Delivery
+End-to-end production of editorial and documentary projects including shooting, editing, color grading and audio post production. Delivery of 100+ audiovisual pieces annually.
 
-**Type:**  
-Environmental editorial documentary
+---
+
+### Audiovisual Lab Supervisor  
+**Universidad Católica de Santiago de Guayaquil — 2015–2020**
+
+Supervision of audiovisual production workflows, technical coordination and execution of multimedia projects.
+
+---
+
+## 📁 Selected Work
+
+### Climate Documentary — Chimborazo (Revista Vistazo)
+
+Production · Camera · Editing · Color · Audio Post · Delivery
 
 [![Project](https://img.youtube.com/vi/ObqKy5h2I38/0.jpg)](https://www.youtube.com/watch?v=ObqKy5h2I38)
 
 ---
 
-### Editorial Interview Production – Revista Vistazo
+### Editorial Interview Production — Revista Vistazo
 
-**Role:**  
-Production / Camera / Editing / Color / Audio Post
-
-**Type:**  
-Editorial video production
+Production · Camera · Editing · Color · Audio Post
 
 [![Project](https://img.youtube.com/vi/mGdqrWWpJr4/0.jpg)](https://www.youtube.com/watch?v=mGdqrWWpJr4)
 
@@ -69,100 +58,24 @@ Editorial video production
 
 ### Documentary Production
 
-**Role:**  
-Director / Camera / Post Production
+Director · Camera · Post Production
 
-**Type:**  
-Documentary storytelling
-
-(link coming soon)
-
----
-
-## 🎬 Professional Production Experience
-
-### Post Producer / Audiovisual Producer  
-Revista Vistazo (2021 – Present)
-
-End-to-end production of editorial and documentary video projects including shooting, editing, color grading and audio post production. Delivery of more than 100 audiovisual pieces per year.
-
----
-
-### Audiovisual Lab Supervisor  
-Universidad Católica de Santiago de Guayaquil (2015 – 2020)
-
-Supervision of audiovisual production workflows, technical coordination and execution of multimedia projects.
+(Project link coming soon)
 
 ---
 
 ## 🌎 Selected Collaborations
 
-🇺🇸 Remote production collaboration – Canoa Suites  
-Production and post production for international clients.
+Remote production — Canoa Suites (USA)
 
-🎓 Color grading – NYU student documentaries  
-Color finishing for documentary films currently participating in international festivals.
+Color finishing — NYU documentary projects
 
-🍽 Documentary production – ICHE Gastronomy School  
-Field production and post production of cultural documentary content.
+Documentary production — ICHE Gastronomy School
 
-🍺 Audio post production – Cervecería Nacional  
+Audio post production — Cervecería Nacional
 
-🏢 Corporate production:
-Veolia (Gadere)  
-Interagua  
-Ecotec University  
+Corporate production:
+Veolia (Gadere) · Interagua · Ecotec University  
 
-🏛 Institutional campaigns:
-
-Ministry of Tourism Ecuador  
-Prefecture of Guayas  
-
----
-
-## 🌎 Remote Post Production
-
-Available for remote collaboration in:
-
-✂️ Video editing  
-🎨 Color grading  
-🎧 Audio post production  
-📦 Final delivery & mastering  
-
-Workflow experience with:
-
-Proxy workflows  
-Cloud media transfer  
-Remote delivery pipelines  
-
----
-
-## 🛠 Technical Toolkit
-
-### 🎬 Video
-🎞 DaVinci Resolve  
-🎞 Premiere Pro  
-🎨 Dehancer Pro  
-📦 Apple Compressor  
-
-### 🎧 Audio
-🎚 Pro Tools Studio  
-🎹 Ableton Live  
-
-### 💻 Hardware
-🖥 Mac Studio  
-🎛 SSL 12  
-🔊 Adam T7V  
-
-### 📷 Production Gear
-📷 Sony Alpha system  
-🔍 Sigma lenses  
-🎤 Professional microphones  
-🎙 Zoom R20 Multitrack  
-🚁 DJI Mavic Air 2
-
----
-
-## 📫 Contact
-
-📧 rnnld@periplostudio.com
+Institutional campaigns:
+Ministry of Tourism
