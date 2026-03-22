@@ -1,22 +1,22 @@
 # Ronald Guzman
 
-Post Producer | Video Editor | Sound Designer
+🎬 Post Producer | Video Editor | 🎧 Sound Designer
 
 ---
 
-## Reel
+## 🎬 Reel
 
-(pon aquí tu link de YouTube o Vimeo cuando lo tengas)
-
----
-
-## Selected Work
-
-(pon aquí tus 3 mejores proyectos después)
+(link)
 
 ---
 
-## Tools
+## 📁 Selected Work
+
+(proyectos)
+
+---
+
+## 🛠 Tools
 
 Video:
 DaVinci Resolve  
@@ -28,17 +28,14 @@ Ableton Live
 
 Hardware:
 SSL 12  
-Moog Sub37  
-Prophet 08  
 
 ---
 
-## About
+## 🧪 Technical Lab
 
-Audiovisual producer specialized in post production, editing and audio workflow optimization. Experience in documentary, interviews and editorial production.
+(esto será tu blog después)
 
 ---
 
-## Contact
-
-rnnld@periplo.studio.com
+## 📫 Contact
+rnnld@periplostudio.com
