@@ -1,23 +1,10 @@
 # Ronald Guzmán Dávila 
 
-🎬 Producer | 🎥 Shooter | ✂️ Editor | 🎨 Color | 🎧 Audio Post
+🎬 Producer | 🎥 Shooter | ✂️ Editor | 🎨 Colorist | 🎧 Audio Post
 
-End-to-end audiovisual production: from shooting to final delivery.
+Audiovisual producer specialized in end-to-end production: shooting, editing, color grading and final delivery with professional audio post workflows.
 
-## 🌎 Remote Post Production
-
-Available for remote collaboration in:
-
-✂️ Video editing  
-🎨 Color grading  
-🎧 Audio post production  
-📦 Final delivery & mastering  
-
-Workflow experience with:
-BlackMagic Design
-Proton
-PCloud
-Proxy workflows  
+Experience working with editorial teams, brands and international collaborators.
 
 ---
 
@@ -26,6 +13,7 @@ Proxy workflows
 [![Reel](https://img.youtube.com/vi/rhUEiaQfEJ4/0.jpg)](https://youtu.be/rhUEiaQfEJ4)
 
 **Roles:**
+
 Production  
 Direction  
 Camera Operation  
@@ -35,21 +23,23 @@ Color Grading
 Audio Post Production  
 Final Delivery   
 
-**Tools used:**
+**Post workflow:**
+
 DaVinci Resolve  
 Pro Tools  
 Ableton Live  
 iZotope RX  
+
 ---
 
 ## 📁 Selected Projects
 
 ### Climate Documentary – Chimborazo (Revista Vistazo)
 
-**Role:**
+**Role:**  
 Production / Camera / Editing / Color / Audio Post / Delivery
 
-**Type:**
+**Type:**  
 Environmental editorial documentary
 
 [![Project](https://img.youtube.com/vi/ObqKy5h2I38/0.jpg)](https://www.youtube.com/watch?v=ObqKy5h2I38)
@@ -58,10 +48,10 @@ Environmental editorial documentary
 
 ### Editorial Interview Production – Revista Vistazo
 
-**Role:**
+**Role:**  
 Production / Camera / Editing / Color / Audio Post
 
-**Type:**
+**Type:**  
 Editorial video production
 
 [![Project](https://img.youtube.com/vi/mGdqrWWpJr4/0.jpg)](https://www.youtube.com/watch?v=mGdqrWWpJr4)
@@ -70,43 +60,17 @@ Editorial video production
 
 ### Documentary Production
 
-**Role:**
+**Role:**  
 Director / Camera / Post Production
 
-**Type:**
+**Type:**  
 Documentary storytelling
 
-(link después)
+(link coming soon)
 
 ---
 
-## 🛠 Tools
-
-### 🎬 Video
-🎞 DaVinci Resolve  
-🎞 Premiere Pro  
-🎨 Dehancer Pro  
-📦 Compressor  
-
-### 🎧 Audio
-🎚 Pro Tools Studio  
-🎹 Ableton Live  
-
-### 💻 Hardware
-🖥 Mac Studio  
-🎛 SSL 12  
-🔊 Adam T7V  
-
-### 📷 Production Gear
-📷 Sony Alpha  
-🔍 Sigma Lenses  
-🎤 Pro Audio
-🎙 Zoom R20 Multitrack (Podcast)  
-🚁 DJI Mavic Air 2
-
----
-
-## 🎬 Professional Experience
+## 🎬 Professional Production Experience
 
 ### Post Producer / Audiovisual Producer  
 Revista Vistazo (2021 – Present)
@@ -128,13 +92,12 @@ Supervision of audiovisual production workflows, technical coordination and exec
 Production and post production for international clients.
 
 🎓 Color grading – NYU student documentaries  
-Color finishing for documentary films currently in international festival circuits.
+Color finishing for documentary films currently participating in international festivals.
 
 🍽 Documentary production – ICHE Gastronomy School  
 Field production and post production of cultural documentary content.
 
-🍺 Audio post – Cervecería Nacional  
-Audio post production for commercial content.
+🍺 Audio post production – Cervecería Nacional  
 
 🏢 Corporate production:
 Veolia (Gadere)  
@@ -142,10 +105,55 @@ Interagua
 Ecotec University  
 
 🏛 Institutional campaigns:
+
 Ministry of Tourism Ecuador  
-Prefecture of Guayas
+Prefecture of Guayas  
+
+---
+
+## 🌎 Remote Post Production
+
+Available for remote collaboration in:
+
+✂️ Video editing  
+🎨 Color grading  
+🎧 Audio post production  
+📦 Final delivery & mastering  
+
+Workflow experience with:
+
+Proxy workflows  
+Cloud media transfer  
+Remote delivery pipelines  
+
+---
+
+## 🛠 Technical Toolkit
+
+### 🎬 Video
+🎞 DaVinci Resolve  
+🎞 Premiere Pro  
+🎨 Dehancer Pro  
+📦 Apple Compressor  
+
+### 🎧 Audio
+🎚 Pro Tools Studio  
+🎹 Ableton Live  
+
+### 💻 Hardware
+🖥 Mac Studio  
+🎛 SSL 12  
+🔊 Adam T7V  
+
+### 📷 Production Gear
+📷 Sony Alpha system  
+🔍 Sigma lenses  
+🎤 Professional microphones  
+🎙 Zoom R20 Multitrack  
+🚁 DJI Mavic Air 2
 
 ---
 
 ## 📫 Contact
-rnnld@periplostudio.com
+
+📧 rnnld@periplostudio.com
