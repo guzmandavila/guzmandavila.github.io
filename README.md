@@ -8,6 +8,13 @@ Experience working with editorial teams, brands and international collaborators.
 
 Based in Ecuador | Available for remote projects worldwide
 
+![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-black)
+![ProTools](https://img.shields.io/badge/ProTools-Studio-grey)
+![Premiere](https://img.shields.io/badge/Premiere-Pro-black)
+![Color](https://img.shields.io/badge/Color-Grading-darkgrey)
+![Audio](https://img.shields.io/badge/Audio-Post-grey)
+![Drone](https://img.shields.io/badge/Drone-Operator-black)
+
 ---
 
 ## 🎬 Reel
