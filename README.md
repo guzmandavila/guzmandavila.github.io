@@ -4,13 +4,20 @@
 
 End-to-end audiovisual production: from shooting to final delivery.
 
-## ⚙ Services
+## 🌎 Remote Post Production
 
-🎬 Editorial video production  
+Available for remote collaboration in:
+
 ✂️ Video editing  
 🎨 Color grading  
 🎧 Audio post production  
-📦 Final delivery mastering  
+📦 Final delivery & mastering  
+
+Workflow experience with:
+BlackMagic Design
+Proton
+PCloud
+Proxy workflows  
 
 ---
 
