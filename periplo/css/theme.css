@@ -1,0 +1,14 @@
+/*
+  /periplo/css/theme.css
+  Periplo Studio comparte la identidad cinematográfica del núcleo
+  (es la marca de producción del propio Ronald), así que hereda
+  tokens.css + base.css sin overrides de color. Este archivo queda
+  como punto de extensión para cuando Periplo tenga isotipo/wordmark
+  propios (ej. una variante de acento o un patrón de fondo distintivo).
+  Cargar después de tokens.css y base.css.
+*/
+
+:root {
+  /* Reservado para deltas de marca Periplo Studio. Vacío por ahora:
+     hereda --bg, --fg, --accent, --font-display, --font-mono del núcleo. */
+}

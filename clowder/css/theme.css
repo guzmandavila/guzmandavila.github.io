@@ -1,0 +1,66 @@
+/*
+  /clowder/css/theme.css
+  Identidad propia de Clowder — café de especialidad + comida consciente.
+  Rompe deliberadamente con la paleta cinematográfica del núcleo:
+  cálida, artesanal, sin grano/glitch. Reutiliza las ESCALAS de tokens.css
+  (espaciado, tipografía fluida, timing) pero sobreescribe color y forma.
+  Cargar después de tokens.css y base.css.
+*/
+
+:root {
+  --bg: #f7f1e7;
+  --bg-raised: #fffdf8;
+  --fg: #2b2620;
+  --fg-muted: #7a7264;
+  --accent: #c1653b;      /* terracota — CTAs, precios */
+  --accent-fg: #fffdf8;
+  --accent-secondary: #6b7a5e; /* sage — badges "conscious food" */
+  --border: #e6ddcc;
+  --focus-ring: #c1653b;
+
+  --font-display: "Fraunces", Georgia, "Iowan Old Style", serif;
+  --font-body: "Nunito", "Segoe UI", -apple-system, sans-serif;
+  --font-mono: "Nunito", "Segoe UI", -apple-system, sans-serif; /* Clowder no usa el lenguaje mono/timecode del núcleo */
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f7f1e7;
+    --bg-raised: #fffdf8;
+    --fg: #2b2620;
+    --fg-muted: #7a7264;
+    --border: #e6ddcc;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1410;
+    --bg-raised: #261b15;
+    --fg: #f3ece1;
+    --fg-muted: #b9a998;
+    --border: #382a20;
+  }
+}
+
+/* En Clowder el grano cinematográfico no aplica: se neutraliza si algún
+   componente compartido lo trajera por accidente. */
+.grain::after {
+  content: none;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  padding: var(--space-1) var(--space-2);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent-secondary) 18%, transparent);
+  color: var(--accent-secondary);
+  font-size: var(--step--1);
+  font-weight: 600;
+}

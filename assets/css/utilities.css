@@ -1,0 +1,122 @@
+/*
+  utilities.css
+  Utilidades de layout compartidas. Depende de tokens.css.
+*/
+
+.container {
+  width: min(100% - (var(--space-gutter) * 2), var(--content-max));
+  margin-inline: auto;
+}
+
+.section {
+  padding-block: var(--space-section);
+}
+
+/* Stack: apila hijos con espacio vertical consistente */
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.stack--tight { gap: var(--space-2); }
+.stack--loose { gap: var(--space-6); }
+
+/* Cluster: agrupa horizontalmente con wrap, para navs/tags/badges */
+.cluster {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+/* Grid de tarjetas responsivo sin media queries, vía auto-fit */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: var(--space-4);
+}
+
+/* Contenedor con container queries habilitadas, para tarjetas que
+   adaptan su layout según su propio ancho, no el del viewport */
+.card-container {
+  container-type: inline-size;
+}
+
+.card {
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+}
+
+@container (min-width: 28rem) {
+  .card--media {
+    display: grid;
+    grid-template-columns: 40% 1fr;
+    gap: var(--space-4);
+  }
+}
+
+/* Ratio cinematográfico para thumbnails de video/proyectos */
+.ratio-cinema {
+  aspect-ratio: 2.39 / 1;
+  overflow: hidden;
+}
+
+.ratio-cinema img,
+.ratio-cinema video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ratio-video {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.ratio-video img,
+.ratio-video video,
+.ratio-video iframe {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 0;
+}
+
+/* Botón base, coherente con el token de acento del módulo activo */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: var(--accent-fg);
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  transition: transform var(--duration-fast) var(--ease-cut),
+              opacity var(--duration-fast) var(--ease-cut);
+}
+
+.btn:hover,
+.btn:focus-visible {
+  opacity: 0.88;
+}
+
+.btn--ghost {
+  background: transparent;
+  color: var(--fg);
+  border-color: var(--border);
+}
+
+.btn--ghost:hover,
+.btn--ghost:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+}

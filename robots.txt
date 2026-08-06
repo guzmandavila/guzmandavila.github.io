@@ -1,0 +1,8 @@
+# TODO: reemplazar el dominio en sitemap.xml (abajo) cuando el sitio
+# tenga su URL definitiva (GitHub Pages o dominio propio).
+
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+
+Sitemap: https://ronaldguzman.dev/sitemap.xml
