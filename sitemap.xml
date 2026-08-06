@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: reemplazar https://ronaldguzman.dev por el dominio definitivo del sitio. -->
+<!-- Si en el futuro se configura un dominio propio (CNAME), reemplazar https://guzmandavila.github.io por ese dominio en todo el sitio. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ronaldguzman.dev/</loc>
+    <loc>https://guzmandavila.github.io/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ronaldguzman.dev/periplo/</loc>
+    <loc>https://guzmandavila.github.io/periplo/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ronaldguzman.dev/clowder/</loc>
+    <loc>https://guzmandavila.github.io/clowder/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ronaldguzman.dev/tools/</loc>
+    <loc>https://guzmandavila.github.io/tools/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>

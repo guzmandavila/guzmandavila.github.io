@@ -65,11 +65,18 @@ python3 generate_icons.py
   y `/tools/` en cada push/PR a `main`, con umbrales mínimos definidos en
   `.lighthouserc.json` (performance/SEO/best-practices ≥ 0.9, accesibilidad ≥ 0.95).
 
+## GitHub Pages
+
+Repo de usuario: `guzmandavila.github.io` (se publica directo en la raíz del
+dominio, por eso el código usa rutas absolutas como `/assets/...`). En
+Settings → Pages, Source = **GitHub Actions**. El workflow `deploy.yml` hace
+el resto en cada push a `main`.
+
 ## Pendiente antes de producción
 
-- [ ] Reemplazar `https://ronaldguzman.dev` por la URL definitiva en
+- [ ] Si más adelante se compra un dominio propio, actualizar
       `sitemap.xml`, `robots.txt` y los `<meta property="og:url">` / `canonical`
-      de cada página (dominio propio o `https://<usuario>.github.io/<repo>/`).
+      de cada página, y añadir un archivo `CNAME`.
 - [ ] Autoalojar las fuentes definitivas (actualmente `tokens.css` usa stacks
       de sistema como fallback honesto).
 - [ ] Construir el contenido real del hub principal (reel, casos de estudio,

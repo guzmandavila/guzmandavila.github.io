@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 Disallow: /dashboard/
 
-Sitemap: https://ronaldguzman.dev/sitemap.xml
+Sitemap: https://guzmandavila.github.io/sitemap.xml
